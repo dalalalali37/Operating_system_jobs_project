@@ -1,0 +1,1 @@
+The max of job size: 255 Kb The min of job size: 16 Kb The number of jobs completed their execution normally:  1580The number of jobs completed their execution abnormally: 768The Number of jobs serviced by I/O device: 3123
